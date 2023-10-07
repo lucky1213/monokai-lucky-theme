@@ -1,0 +1,21 @@
+{
+  "name": "monokai-lucky-theme",
+  "displayName": "Monokai Lucky Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "lucky1213",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lucky1213-color-theme.json"
+      }
+    ]
+  }
+}
